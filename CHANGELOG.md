@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-26)
+## Unreleased (2025-06-14)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`c0af677`](https://github.com/stdlib-js/stdlib/commit/c0af6777b804074d251bf0699b72ffb6af803ff6) - **docs:** update related packages sections [(#7352)](https://github.com/stdlib-js/stdlib/pull/7352) _(by stdlib-bot)_
 -   [`5014579`](https://github.com/stdlib-js/stdlib/commit/50145790965ef11b4a7852a79944776f6d1e9c6f) - **feat:** add `number/uint32/base/muldw` _(by Gururaj Gurram)_
 
 </details>
